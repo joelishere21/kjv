@@ -45,6 +45,12 @@ Read the Word of God from your terminal
 
 kjv can be built by cloning the repository and then running make:
 
+    Ubuntu based install:
+        sudo apt install libc6-dev
+        sudo apt install libedit-dev
+        sudo apt install libreadline-dev
+        sudo apt install readline-doc
+
     git clone https://github.com/bontibon/kjv.git
     cd kjv
     make
