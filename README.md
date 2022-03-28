@@ -50,6 +50,9 @@ kjv can be built by cloning the repository and then running make:
         sudo apt install libedit-dev
         sudo apt install libreadline-dev
         sudo apt install readline-doc
+        
+    Fedora install:
+        sudo dnf install readline-devel
 
     git clone https://github.com/bontibon/kjv.git
     cd kjv
